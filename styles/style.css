@@ -320,7 +320,7 @@
 .footer__social-list {
   display: flex;
   flex-wrap: wrap;
-  justify-self: end;
+  justify-content: end;
   align-items: center;
   column-gap: 48px;
   list-style: none;
